@@ -48,9 +48,12 @@ sections:
             style: secondary
       - title: Feature 2
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          We are supplying all UK Businesses, Care Sectors & NHS PPE Equipment.
+
+          In response to the COVID-19 pandemic we have transformed factories to
+          produce much needed personal protective equipment (PPE) to help
+          overcome shortages and protect the lives of key workers across the
+          globe.
         align: left
         image: images/feature.svg
         image_position: left
