@@ -8,7 +8,7 @@ tags:
   - ethics
   - auditing
 image: images/ETHICS.png
-excerpt: 'We '
+excerpt: We
 template: post
 ---
 
