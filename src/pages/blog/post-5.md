@@ -8,7 +8,9 @@ tags:
   - ethics
   - auditing
 image: images/ETHICS.png
-excerpt: 'We''ve '
+excerpt: >-
+  We've worked to ensure that all of our production units provide good working
+  conditions and environmental standards.
 template: post
 ---
 
