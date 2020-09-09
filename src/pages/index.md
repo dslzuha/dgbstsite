@@ -60,9 +60,12 @@ sections:
             style: secondary
       - title: Feature 3
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          We believe that we must be valued by our customers equally for our
+          service and relationship as well as our products.
+
+          We structure our business with dedicated teams focused on our
+          individual customers, ensuring a detailed, open, honest and continuous
+          relationship
         align: left
         image: images/feature.svg
         image_position: right
