@@ -8,7 +8,7 @@ tags:
   - Stackbit
   - Netlify
 image: images/5.png
-excerpt: E
+excerpt: Exce
 template: post
 ---
 
