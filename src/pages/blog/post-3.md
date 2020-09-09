@@ -9,9 +9,12 @@ tags:
   - JAMstack
 image: images/3.png
 excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+  All of our people are treated with respect, and their health, safety and basic
+  human rights must be protected and promoted.  Each unit must strive to comply
+  with the ETI base code and all relevant local and national regulations with
+  particular regard to:  MINIMUM AGE OF EMPLOYMENT FREELY CHOSEN EMPLOYMENT
+  HEALTH AND SAFETY FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING WORKING
+  HOURS RATES OF PAY AND TERMS OF EMPLOYMENT
 template: post
 ---
 
