@@ -5,7 +5,7 @@ author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-  - OUR ETHICS
+  - ETHICS
   - WORKFORCE RIGHTS
 image: images/3.png
 excerpt: >-
