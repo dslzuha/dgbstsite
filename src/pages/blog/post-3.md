@@ -6,7 +6,7 @@ categories:
   - src/data/categories/general.yaml
 tags:
   - ethics
-  - rights
+  - auditing
   - auditing
   - lorem-ipsum
   - lorem-ipsum
