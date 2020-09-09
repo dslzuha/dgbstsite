@@ -30,9 +30,15 @@ sections:
     features:
       - title: Feature 1
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Factory Workshop of our Dishang Medical Technology Co. Ltd is covering
+          an area of 12,000m2 and benefits from specialized production lines for
+          protective suits and masks with professional production equipment,
+          strict management and strong production capacity.
+
+
+          Ethylene oxide sterilization is used for all sterile products. This
+          process takes only 10 hours and has significantly improved production
+          efficiency.
         align: left
         image: images/feature.svg
         image_position: right
