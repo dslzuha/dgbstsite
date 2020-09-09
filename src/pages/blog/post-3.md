@@ -7,7 +7,7 @@ categories:
 tags:
   - ethics
   - rights
-  - lorem-ipsum
+  - ''
 image: images/3.png
 excerpt: >-
   All of our people are treated with respect, and their health, safety and basic
