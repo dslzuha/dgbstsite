@@ -5,7 +5,7 @@ author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
 tags:
-  - Stackbit
+  - ''
   - Netlify
 image: images/ETHICS.png
 excerpt: >-
