@@ -10,7 +10,7 @@ tags:
   - auditing
   - lorem-ipsum
   - lorem-ipsum
-image: images/3.png
+image: images/RIGHTS.png
 excerpt: >-
   All of our people are treated with respect, and their health, safety and basic
   human rights must be protected and promoted.  Each unit must strive to comply
