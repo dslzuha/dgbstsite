@@ -12,7 +12,7 @@ excerpt: >-
   We works to ensure that all of our production units provide good working
   conditions and environmental standards. We achieve these objectives by working
   to agreed standards (based on the ETI base code), supported by regular site
-  inspections and a policy of continuous improvement.
+  inspections and a policy of continuous improvement. 
 template: post
 ---
 
