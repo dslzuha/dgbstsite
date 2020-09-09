@@ -10,9 +10,9 @@ tags:
   - auditing
 image: images/AUDITING.png
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  We have a completely open policy allowing our customers free access to audit
+  our factories at will and invite them to become involved in the Supplier
+  Ethical Data Exchange (Sedex)
 template: post
 ---
 
