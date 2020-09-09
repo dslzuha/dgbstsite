@@ -8,10 +8,7 @@ tags:
   - ethics
   - auditing
 image: images/ETHICS.png
-excerpt: >-
-  We have a completely open policy allowing our customers free access to audit
-  our factories at will and invite them to become involved in the Supplier
-  Ethical Data Exchange (Sedex) 
+excerpt: 'We '
 template: post
 ---
 
