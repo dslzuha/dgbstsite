@@ -5,7 +5,7 @@ author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-  - ETHICS
+  - e
   - rights
 image: images/3.png
 excerpt: >-
