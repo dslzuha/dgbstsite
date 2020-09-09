@@ -6,7 +6,7 @@ categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/news.yaml
 tags:
-  - ethic
+  - ethics
   - auditing
 image: images/4.png
 excerpt: >-
