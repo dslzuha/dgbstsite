@@ -4,8 +4,10 @@ sections:
   - type: hero_section
     title: Factory Workshop
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Factory Workshop of our Dishang Medical Technology Co. Ltd is covering an
+      area of 12,000m2 and benefits from specialized production lines for
+      protective suits and masks with professional production equipment, strict
+      management and strong production capacity.
     actions:
       - label: Learn More
         url: /features
