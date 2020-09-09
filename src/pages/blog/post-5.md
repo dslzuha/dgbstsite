@@ -6,7 +6,7 @@ categories:
   - src/data/categories/tutorials.yaml
 tags:
   - ethics
-  - Netlify
+  - auditing
 image: images/ETHICS.png
 excerpt: >-
   We've worked to ensure that all of our production units provide good working
