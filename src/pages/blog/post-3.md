@@ -5,7 +5,7 @@ author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
-  - Stackbit
+  - OUR ETHICS
   - WORKFORCE RIGHTS
 image: images/3.png
 excerpt: >-
