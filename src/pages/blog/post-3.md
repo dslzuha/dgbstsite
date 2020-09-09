@@ -7,7 +7,7 @@ categories:
 tags:
   - ethics
   - auditing
-  - auditing
+  - rights
   - lorem-ipsum
   - lorem-ipsum
 image: images/RIGHTS.png
