@@ -7,7 +7,7 @@ categories:
 tags:
   - Stackbit
   - Netlify
-image: images/5.png
+image: images/ETHICS.png
 excerpt: >-
   We've worked to ensure that all of our production units provide good working
   conditions and environmental standards. We achieve these objectives by working
