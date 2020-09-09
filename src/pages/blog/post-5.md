@@ -1,6 +1,6 @@
 ---
 title: OUR ETHICS
-date: '2020-06-02'
+date: '2020-09-09'
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
