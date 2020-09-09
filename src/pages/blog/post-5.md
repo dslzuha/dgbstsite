@@ -9,8 +9,9 @@ tags:
   - auditing
 image: images/ETHICS.png
 excerpt: >-
-  We've worked to ensure that all of our production units provide good working
-  conditions and environmental standards.
+  We have a completely open policy allowing our customers free access to audit
+  our factories at will and invite them to become involved in the Supplier
+  Ethical Data Exchange (Sedex) 
 template: post
 ---
 
