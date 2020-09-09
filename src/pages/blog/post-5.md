@@ -9,9 +9,10 @@ tags:
   - Netlify
 image: images/5.png
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  The Dishang Group works to ensure that all of our production units provide
+  good working conditions and environmental standards. We achieve these
+  objectives by working to agreed standards (based on the ETI base code),
+  supported by regular site inspections and a policy of continuous improvement.
 template: post
 ---
 
