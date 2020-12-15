@@ -33,5 +33,20 @@
     "react-script-tag": "^1.1.2",
     "rehype-react": "^3.0.2",
     "sprintf-js": "^1.1.2"
-  }
+  },
+  "main": "gatsby-browser.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dslzuha/dgbstsite.git"
+  },
+  "keywords": [
+    "gatsby-browser",
+    "stackbit",
+    "netlify"
+  ],
+  "author": "“Dsl <“zuha@dslbd.onmicrosoft.com”> (“https://dgbstsite-84afe.netlify.app/”)",
+  "bugs": {
+    "url": "https://github.com/dslzuha/dgbstsite/issues"
+  },
+  "homepage": "https://github.com/dslzuha/dgbstsite#readme"
 }
